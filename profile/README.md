@@ -1,4 +1,4 @@
-![itfs](ilidar-tof-itfs.png)
+![ilidar-tof-itfs.png](https://github.com/ilidar-tof/.github/blob/main/profile/ilidar-tof-itfs.png)
 
 # iLidar-ToF
 iLidar-ToF is a 3D solid state LiDAR that offers an extremely cost-effective solution compared to traditional LiDAR sensors on the market. It features a solid-state design without any moving parts and a high efficiency optical system, allowing it to achieve a maximum measurement range of up to 20 meters.
