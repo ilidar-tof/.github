@@ -3,7 +3,7 @@
 # iLidar-ToF
 iLidar-ToF is a 3D solid state LiDAR that offers an extremely cost-effective solution compared to traditional LiDAR sensors on the market. It features a solid-state design without any moving parts and a high efficiency optical system, allowing it to achieve a maximum measurement range of up to 20 meters.
 
-Our main product iTFS series can be used for obstacle avoidance in mobile robotics, and a safety sensor for industrial environment to monitor human presence in hazardous areas. It can also be used for detecting vehicle entry and exit in parking garages, among other applications.
+Our main product iTFS series can be used for obstacle avoidance in mobile robotics, and as a safety sensor for industrial environments to monitor human presence in hazardous areas. It can also be used for detecting vehicle entry and exit in parking garages, among other applications.
 
 Please, check the product page here: https://www.ilidar.io/
 
