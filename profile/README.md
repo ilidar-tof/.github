@@ -7,6 +7,11 @@ Our main product iTFS series can be used for obstacle avoidance in mobile roboti
 
 Please, check the product page here: https://www.ilidar.io/
 
+# User manuals
+iLidar-ToF has various functions for your applications. See details on our iTFS user manual:
+- [iTFS User Manual (KR)](https://github.com/ilidar-tof/user-manual/blob/main/iTFS_MANUAL_KR.md)
+- [iTFS User Manual (EN)](https://github.com/ilidar-tof/user-manual/blob/main/iTFS_MANUAL_EN.md)
+
 # Software Packages
 We provide various repositories to help you to implment our sensors into your application. See the following list:
 |Repository|Language|Description|
