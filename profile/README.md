@@ -20,6 +20,7 @@ We provide various repositories to help you to implment our sensors into your ap
 |[ilidar-api-cpp]|C++|Driver and example source code written in C++|
 |[ilidar-api-py]|Python|Driver and example source code written in Python|
 |[ilidar-api-ros]|ROS(C++)|ROS Package written in C++|
+|[ilidar-tool]|Python|iTFS set up and firmware update written in Python|
 
 # Contact Us
 Technical inquiry: Junwoo Son, CTO (json@hybo.co)  
@@ -29,3 +30,4 @@ Business Contact: Joe, Sales Leader (joe@hybo.co)
 [ilidar-api-cpp]: https://github.com/ilidar-tof/ilidar-api-cpp
 [ilidar-api-py]: https://github.com/ilidar-tof/ilidar-api-py
 [ilidar-api-ros]: https://github.com/ilidar-tof/ilidar-api-ros
+[ilidar-tool]: https://github.com/ilidar-tof/ilidar-tool
