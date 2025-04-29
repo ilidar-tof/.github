@@ -27,7 +27,7 @@ Technical inquiry: Junwoo Son, CTO (json@hybo.co)
 Business Contact: Joe, Sales Leader (joe@hybo.co)
 
 [iViewer]: https://github.com/ilidar-tof/iviewer/releases
-[ilidar-api-cpp]: https://github.com/ilidar-tof/ilidar_api_cpp
+[ilidar_api_cpp]: https://github.com/ilidar-tof/ilidar_api_cpp
 [ilidar-api-py]: https://github.com/ilidar-tof/ilidar-api-py
 [ilidar-api-ros]: https://github.com/ilidar-tof/ilidar-api-ros
-[ilidar-tool]: https://github.com/ilidar-tof/ilidar_tool_py
+[ilidar_tool_py]: https://github.com/ilidar-tof/ilidar_tool_py
