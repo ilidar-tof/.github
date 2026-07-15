@@ -18,7 +18,7 @@ a consistent callback and multi-device workflow.
 
 | Repository | Environment | Description |
 |:---|:---:|:---|
-| [iViewer V2]() | Desktop Viewer | The new version of iViewer, providing viewer functionality for both iTFS and iTFS-LITE. |
+| [iViewer V2](https://github.com/ilidar-tof/iviewer-v2) | Desktop Viewer | The new version of iViewer, providing viewer functionality for both iTFS and iTFS-LITE. |
 | [ilidar-api](https://github.com/ilidar-tof/ilidar-api) | C++ / Python | Receive APIs and integration examples for iTFS and iTFS-LITE. Includes Helloworld, OpenCV, PCL, and Open3D examples. |
 | [ilidar-ros](https://github.com/ilidar-tof/ilidar-ros) | ROS 1 / C++ | Catkin packages for iTFS and iTFS-LITE with images, organized point clouds, TF, diagnostics, and RViz visualization. |
 | [ilidar-ros2](https://github.com/ilidar-tof/ilidar-ros2) | ROS 2 / C++ | Ament/colcon packages for iTFS and iTFS-LITE with standard ROS 2 messages, multi-device support, diagnostics, TF, and RViz2 visualization. |
@@ -45,7 +45,6 @@ Support for **ROS 2 Lyrical Luth (Ubuntu 26.04 LTS)** is planned.
 
 ## Documentation
 
-- [iLidar product page](https://www.ilidar.io/)
 - [iTFS user manual (English)](https://github.com/ilidar-tof/user-manual/blob/main/iTFS_MANUAL_EN.md)
 - [iTFS user manual (Korean)](https://github.com/ilidar-tof/user-manual/blob/main/iTFS_MANUAL_KR.md)
 - iTFS-LITE user manual (English) — *Coming soon*
