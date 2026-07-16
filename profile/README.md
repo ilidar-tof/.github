@@ -17,17 +17,17 @@ The V2 software packages use product-specific packet handling while providing
 a consistent callback and multi-device workflow.
 
 | Repository | Environment | Description |
-|:---|:---:|:---|
-| [iViewer V2](https://github.com/ilidar-tof/iviewer-v2/releases/latest) | Desktop Viewer | The new version of iViewer, providing viewer functionality for both iTFS and iTFS-LITE. |
-| [ilidar-api](https://github.com/ilidar-tof/ilidar-api) | C++ / Python | Receive APIs and integration examples for iTFS and iTFS-LITE. Includes Helloworld, OpenCV, PCL, and Open3D examples. |
-| [ilidar-ros](https://github.com/ilidar-tof/ilidar-ros) | ROS 1 / C++ | Catkin packages for iTFS and iTFS-LITE with images, organized point clouds, TF, diagnostics, and RViz visualization. |
-| [ilidar-ros2](https://github.com/ilidar-tof/ilidar-ros2) | ROS 2 / C++ | Ament/colcon packages for iTFS and iTFS-LITE with standard ROS 2 messages, multi-device support, diagnostics, TF, and RViz2 visualization. |
+|:---:|:---:|:---|
+| [iViewer V2](https://github.com/ilidar-tof/iviewer-v2/releases/latest) | Desktop Viewer | The new version of iViewer,<br>providing viewer functionality for both iTFS and iTFS-LITE. |
+| [ilidar-api](https://github.com/ilidar-tof/ilidar-api) | C++ / Python | Receive APIs and integration examples for iTFS and iTFS-LITE.<br>Includes Helloworld, OpenCV, PCL, and Open3D examples. |
+| [ilidar-ros](https://github.com/ilidar-tof/ilidar-ros) | ROS 1 / C++ | Catkin packages for iTFS and iTFS-LITE<br>with images, organized point clouds, TF, diagnostics, and RViz visualization. |
+| [ilidar-ros2](https://github.com/ilidar-tof/ilidar-ros2) | ROS 2 / C++ | Ament/colcon packages for iTFS and iTFS-LITE<br>with standard ROS 2 messages, multi-device support, diagnostics, TF, and RViz2 visualization. |
 | [ilidar-tool-py](https://github.com/ilidar-tof/ilidar-tool-py) | Python | Sensor setup and maintenance tools for iTFS and iTFS-LITE. |
 
 ### Platform Support
 
 | Package | Supported environment |
-|:---|:---|
+|:---:|:---|
 | `iviewer_V2` | Windows 10, 11<br>Ubuntu 20.04, 22.04, 24.04 |
 | `ilidar-api` | Windows and Linux in C++17-compatible native build environments<br>(Tested on Windows 10/11 and Ubuntu 18.04–24.04)<br>Python native bindings |
 | `ilidar-ros` | ROS Kinetic (Ubuntu 16.04)<br>ROS Melodic (Ubuntu 18.04)<br>ROS Noetic (Ubuntu 20.04) |
