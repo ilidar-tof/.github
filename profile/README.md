@@ -28,7 +28,7 @@ a consistent callback and multi-device workflow.
 
 | Package | Supported environment |
 |:---:|:---|
-| `iviewer_V2` | Windows 10, 11<br>Ubuntu 20.04, 22.04, 24.04 |
+| `iViewer_V2` | Windows 10, 11<br>Ubuntu 20.04, 22.04, 24.04 |
 | `ilidar-api` | Windows and Linux in C++17-compatible native build environments<br>(Tested on Windows 10/11 and Ubuntu 18.04–24.04)<br>Python native bindings |
 | `ilidar-ros` | ROS Kinetic (Ubuntu 16.04)<br>ROS Melodic (Ubuntu 18.04)<br>ROS Noetic (Ubuntu 20.04) |
 | `ilidar-ros2` | ROS 2 Foxy (Ubuntu 20.04)<br>ROS 2 Humble (Ubuntu 22.04)<br>ROS 2 Jazzy (Ubuntu 24.04) |
