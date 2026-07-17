@@ -1,4 +1,30 @@
-![ilidar-tof-itfs.png](https://github.com/ilidar-tof/.github/blob/main/profile/ilidar-tof-itfs.png)
+<picture>
+<!-- Mobile / Dark -->
+<source
+   media="(max-width: 600px) and (prefers-color-scheme: dark)"
+   srcset="./ilidar-tof-git-mobile-dark.svg">
+
+<!-- Mobile / Light -->
+<source
+   media="(max-width: 600px) and (prefers-color-scheme: light)"
+   srcset="./ilidar-tof-git-mobile-light.svg">
+
+<!-- PC / Dark -->
+<source
+   media="(prefers-color-scheme: dark)"
+   srcset="./ilidar-tof-git-pc-dark.svg">
+
+<!-- PC / Light -->
+<source
+   media="(prefers-color-scheme: light)"
+   srcset="./ilidar-tof-git-pc-light.svg">
+
+<!-- Fallback -->
+<img
+   src="./ilidar-tof-git-pc-light.svg"
+   alt="HYBO iLidar ToF product lineup"
+   width="800">
+</picture>
 
 # iLidar-ToF
 
