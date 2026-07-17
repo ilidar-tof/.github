@@ -47,13 +47,6 @@ a consistent callback and multi-device workflow.
 
 Support for **ROS 2 Lyrical Luth (Ubuntu 26.04 LTS)** is planned.
 
-## Start in 3 Steps
-
-1. **Remove the protective film** — Unpack the sensor and remove the film from
-   the optical window.
-2. **Connect to the host** — Connect the sensor and host to the same network.
-3. **Run the viewer or examples** — Start the viewer or an API/ROS example.
-
 ## Documentation
 
 - [iTFS user manual (English)](https://github.com/ilidar-tof/user-manual/blob/main/iTFS_MANUAL_EN.md)
