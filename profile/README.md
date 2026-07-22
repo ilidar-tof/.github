@@ -31,7 +31,7 @@ for the **iTFS** and **iTFS-LITE** product families.
 | [`ilidar-ros2`](https://github.com/ilidar-tof/ilidar-ros2) | ✓ | ✓ | ROS 2 drivers and RViz2 packages<br><small>Support: Foxy · Humble · Jazzy · Lyrical<sup>*</sup></small> |
 | [`ilidar-ros`](https://github.com/ilidar-tof/ilidar-ros) | ✓ | ✓ | ROS 1 drivers and RViz packages<br><small>Support: Kinetic · Melodic · Noetic</small> |
 | [`ilidar-tool-py`](https://github.com/ilidar-tof/ilidar-tool-py) | ✓ | ✓ | Python sensor configuration tools<br><small>Support: Python 3</small> |
-| [`lite-fw`](https://github.com/ilidar-tof/lite-fw/releases/latest) | · | ✓ | Python iTFS-LITE firmware updater<br><small>Support: Python 3</small> |
+| [`lite-fw`](https://github.com/ilidar-tof/lite-fw) | · | ✓ | Python iTFS-LITE firmware updater<br><small>Support: Python 3</small> |
 
 <small><sup>*</sup> Planned for Ubuntu 26.04 LTS.</small>
 
